@@ -2,6 +2,8 @@
 修改版酷安
 自用
 
+添加对预测性返回手势的支持：
+https://developer.android.com/guide/navigation/custom-back/predictive-back-gesture?hl=zh-cn
 
 *预测性返回是一项手势导航功能，可让用户预览返回滑动操作将其带到的位置。
 
